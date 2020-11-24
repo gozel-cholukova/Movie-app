@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: #22254b;
+    background-color: black;
     font-family: "Poppins", sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: #373b69;
+    background-color: #464647;
     display: flex;
     justify-content: flex-end;
     padding: 1rem;
@@ -19,7 +19,7 @@ header {
 
 .search {
     background-color: transparent;
-    border: 2px solid #22254b;
+    border: 2px solid #4b2222;
     border-radius: 50px;
     color: #fff;
     font-family: inherit;
@@ -42,7 +42,7 @@ main {
 }
 
 .movie {
-    background-color: #373b69;
+    background-color: #680909;
     border-radius: 3px;
     box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
     overflow: hidden;
